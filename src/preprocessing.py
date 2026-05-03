@@ -59,9 +59,9 @@ def build_pipeline() -> Pipeline:
 
 def prepare_features(df: pd.DataFrame) -> pd.DataFrame:
     df = df.copy()
-    if "Date_Time" not in df.columns and "Date_Time" in df.columns:
-        pass
     if "Date_Time" in df.columns:
+        if not pd.api.types.is_datetime64_any_dtype(df["Date_Time"]):
+            df["Date_Time"] = pd.to_datetime(df["Date_Time"], errors="coerce")
         df["hour"] = df["Date_Time"].dt.hour
         df["month"] = df["Date_Time"].dt.month
     feature_df = df[FEATURE_FIELDS].copy()

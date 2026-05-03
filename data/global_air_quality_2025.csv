@@ -1,0 +1,81 @@
+Type,Name,PM2.5_Average,Rank
+Country,Pakistan,67.3,1
+Country,Bangladesh,66.1,2
+Country,Tajikistan,57.3,3
+Country,Chad,53.6,4
+Country,DR Congo,50.2,5
+Country,India,48.9,6
+Country,Kuwait,45.7,7
+Country,Uganda,43.0,8
+Country,Egypt,40.6,9
+Country,Uzbekistan,38.1,10
+Country,Iraq,38.1,11
+Country,Nepal,37.4,12
+Country,United Arab Emirates,36.4,13
+Country,Bahrain,35.9,14
+Country,Rwanda,34.5,15
+Country,Qatar,33.9,16
+Country,Indonesia,30.0,17
+Country,Vietnam,29.7,18
+Country,Kyrgyzstan,29.7,19
+Country,China,29.6,20
+Country,French Polynesia,1.8,143
+Country,Puerto Rico,2.4,142
+Country,U.S. Virgin Islands,2.5,141
+Country,Barbados,2.6,140
+Country,New Caledonia,3.6,139
+Country,Iceland,3.7,138
+Country,Bermuda,3.8,137
+Country,Reunion,4.3,136
+Country,Andorra,4.3,135
+Country,Australia,4.4,134
+Country,Grenada,4.7,133
+Country,Panama,4.8,132
+Country,Estonia,4.9,131
+Country,New Zealand,5.1,130
+Country,Finland,5.2,129
+Country,Sweden,5.5,128
+Country,Trinidad and Tobago,5.5,127
+Country,Costa Rica,6.1,126
+Country,Norway,6.2,125
+Country,Honduras,6.3,124
+City,"Loni, India",112.5,1
+City,"Hotan, China",109.6,2
+City,"Byrnihat, India",101.1,3
+City,"Delhi, India",99.6,4
+City,"Faisalabad, Pakistan",98.8,5
+City,"Rahim Yar Khan, Pakistan",92.6,6
+City,"Ghaziabad, India",89.2,7
+City,"Lahore, Pakistan",88.9,8
+City,"Sukkur, Pakistan",88.6,9
+City,"Sahiwal, Pakistan",88.3,10
+City,"Pattoki, Pakistan",86.7,11
+City,"Mullanpur Dhaka, India",86.2,12
+City,"Lodhran, Pakistan",85.3,13
+City,"Kashgar, China",84.0,14
+City,"Madhyamgram, India",83.3,15
+City,"New Delhi, India",82.2,16
+City,"Peshawar, Pakistan",81.7,17
+City,"Noida, India",80.5,18
+City,"Kizilsu, China",79.7,19
+City,"Sialkot, Pakistan",78.6,20
+City,"Nieuwoudtville, South Africa",1.0,1
+City,"Amanda Park, WA, USA",1.3,2
+City,"Mountain Pine, AR, USA",1.3,3
+City,"Hali’imaile, HI, USA",1.4,4
+City,"Carmel, ME, USA",1.8,5
+City,"Mayagüez, Puerto Rico",2.0,6
+City,"Fairbanks, AK, USA",2.2,7
+City,"Kihia, Finland",2.3,8
+City,"Broken Hill, NSW, Australia",2.4,9
+City,"Bourke, NSW, Australia",2.4,10
+City,"Alttila, Finland",2.5,11
+City,"Hawaiian Paradise Park, HI, USA",2.6,12
+City,"Leggett, CA, USA",2.7,13
+City,"Stockholm, Sweden",3.5,14
+City,"Reykjavik, Iceland",3.2,15
+City,"Helsinki, Finland",3.7,16
+City,"Oslo, Norway",3.8,17
+City,"Vancouver, Canada",3.9,18
+City,"Canberra, Australia",4.0,19
+City,"Wellington, New Zealand",4.1,20
